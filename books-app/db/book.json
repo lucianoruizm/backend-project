@@ -1,0 +1,29 @@
+[
+  {
+    "book": {
+      "id": 1,
+      "title": "Harry Potter y La Piedra Filosofal",
+      "author": "J.K Rowling",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/51lEw8wGCPL._SY264_BO1,204,203,200_QL40_ML2_.jpg",
+      "description": "Es el primer volumen de la ya clásica serie de novelas fantásticas de la autora británica J.K. Rowling."
+    }
+  },
+  {
+    "book": {
+      "id": 2,
+      "title": "Star Wars: Dark Lord, The Rise of Darth Vader",
+      "author": "James Luceno",
+      "url": "https://kbimages1-a.akamaihd.net/9f82460b-0183-49ab-9a3b-01a1642bf7bb/353/569/90/False/dark-lord-star-wars-legends.jpg",
+      "description": "Throughout the galaxy, it was believed that Jedi Knight Anakin Skywalker–the Chosen One–had died on Coruscant during the siege of the Jedi Temple. And, to some extent, that was true. Anakin was dead."
+    }
+  },
+  {
+    "book": {
+      "id": 3,
+      "title": "Maze Runner",
+      "author": "James Dashner",
+      "url": "https://www.cuspide.com/Libro/9789876122672/1++Correr+O+Morir++Maze+Runner",
+      "description": "Al despertar dentro de un oscuro elevador en movimiento, lo único que Thomas logra recordar es su nombre. No sabe quién es, tampoco hacia dónde va, pero no está solo."
+    }
+  }
+]
